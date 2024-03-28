@@ -53,3 +53,5 @@ function c() {
 // this is why the code is working as expected
 
 //so in abstract the hoisting is setting up memory space for variables and functions (the creation phase)
+
+//the second phase is the execution phase where the code is executed line by line
