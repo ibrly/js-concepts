@@ -9,3 +9,5 @@ A lexical environment exists in programming languages in which where you write s
 execution context: a wrapper to help manage the code that is running
 
 so the lexical environments is currently running is managed via execution context 
+
+single threaded synchronous execution: one command at a time and in order
