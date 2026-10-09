@@ -5,6 +5,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Topic | File |
 |-------|------|
 | Types | [types/index.js](types/index.js) |
+| Symbols | [types/symbols.js](types/symbols.js) |
 | Operators | [operators/index.js](operators/index.js) |
 | Coercion | [operators/coercion.js](operators/coercion.js) |
 | Precedence and associativity | [operators/precedence-associativity.js](operators/precedence-associativity.js) |
@@ -23,6 +24,9 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Currying | [functional/currying.js](functional/currying.js) |
 | Debounce and throttle | [functional/debounce-throttle.js](functional/debounce-throttle.js) |
 | Destructuring, spread, rest | [syntax/destructuring-spread-rest.js](syntax/destructuring-spread-rest.js) |
+| Optional chaining and nullish coalescing | [syntax/optional-chaining-nullish.js](syntax/optional-chaining-nullish.js) |
+| Tagged templates | [syntax/tagged-templates.js](syntax/tagged-templates.js) |
+| Error types and custom errors | [errors/error-types.js](errors/error-types.js) |
 | Iterators and generators | [iterators/generators.js](iterators/generators.js) |
 | Proxy and Reflect | [meta-programming/proxy-reflect.js](meta-programming/proxy-reflect.js) |
 | Weak references and GC | [memory/weak-references.js](memory/weak-references.js) |
