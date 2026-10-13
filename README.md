@@ -6,6 +6,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 |-------|------|
 | Types | [types/index.js](types/index.js) |
 | Symbols | [types/symbols.js](types/symbols.js) |
+| Numbers and floating point | [numbers/floating-point.js](numbers/floating-point.js) |
 | Operators | [operators/index.js](operators/index.js) |
 | Coercion | [operators/coercion.js](operators/coercion.js) |
 | Precedence and associativity | [operators/precedence-associativity.js](operators/precedence-associativity.js) |
