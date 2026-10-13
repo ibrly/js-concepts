@@ -17,6 +17,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Functions | [functions.js](functions.js) |
 | IIFE and module pattern | [functions-iife.js](functions-iife.js) |
 | Objects | [objects.js](objects.js) |
+| Copying objects and structuredClone | [copying/structured-clone.js](copying/structured-clone.js) |
 | Closures | [closures/closures.js](closures/closures.js) |
 | `this` keyword | [this-keyword/this.js](this-keyword/this.js) |
 | Prototypes | [prototypes/prototypes.js](prototypes/prototypes.js) |
