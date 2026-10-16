@@ -17,6 +17,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Hoisting | [hoisting/hoisting.js](hoisting/hoisting.js) |
 | Functions | [functions.js](functions.js) |
 | IIFE and module pattern | [functions-iife.js](functions-iife.js) |
+| ES modules vs CommonJS | [modules/index.mjs](modules/index.mjs) |
 | Objects | [objects.js](objects.js) |
 | Copying objects and structuredClone | [copying/structured-clone.js](copying/structured-clone.js) |
 | Closures | [closures/closures.js](closures/closures.js) |
