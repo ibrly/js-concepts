@@ -31,6 +31,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Optional chaining and nullish coalescing | [syntax/optional-chaining-nullish.js](syntax/optional-chaining-nullish.js) |
 | Intl formatting | [intl/intl.js](intl/intl.js) |
 | Regular expressions | [regex/regex-basics.js](regex/regex-basics.js) |
+| Labels and blocks | [syntax/labels-blocks.js](syntax/labels-blocks.js) |
 | Tagged templates | [syntax/tagged-templates.js](syntax/tagged-templates.js) |
 | Error types and custom errors | [errors/error-types.js](errors/error-types.js) |
 | Iterators and generators | [iterators/generators.js](iterators/generators.js) |
