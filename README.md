@@ -36,6 +36,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Iterators and generators | [iterators/generators.js](iterators/generators.js) |
 | Proxy and Reflect | [meta-programming/proxy-reflect.js](meta-programming/proxy-reflect.js) |
 | Array methods | [arrays/array-methods.js](arrays/array-methods.js) |
+| Change array by copy (toSorted, with) | [arrays/change-array-by-copy.js](arrays/change-array-by-copy.js) |
 | Map and Set | [collections/map-set.js](collections/map-set.js) |
 | Weak references and GC | [memory/weak-references.js](memory/weak-references.js) |
 | Event loop | [async/event-loop.js](async/event-loop.js) |
