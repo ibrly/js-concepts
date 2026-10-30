@@ -35,6 +35,7 @@ Short, runnable notes on how JavaScript works under the hood. Run any file with 
 | Error types and custom errors | [errors/error-types.js](errors/error-types.js) |
 | Iterators and generators | [iterators/generators.js](iterators/generators.js) |
 | Proxy and Reflect | [meta-programming/proxy-reflect.js](meta-programming/proxy-reflect.js) |
+| Array methods | [arrays/array-methods.js](arrays/array-methods.js) |
 | Map and Set | [collections/map-set.js](collections/map-set.js) |
 | Weak references and GC | [memory/weak-references.js](memory/weak-references.js) |
 | Event loop | [async/event-loop.js](async/event-loop.js) |
